@@ -25,6 +25,7 @@ or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
 will raise an exception.
 
 .. autoexception:: lumache.InvalidKindError
+Lumache has its documentation hosted on Read the Docs.
 
 For example:
 
